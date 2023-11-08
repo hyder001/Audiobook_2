@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>635903839764-haip7ffd75hi4mrscphsiir9ogd64fd6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.635903839764-haip7ffd75hi4mrscphsiir9ogd64fd6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2_mhRQFanemY05TIeJat-jG2IAPcxMKU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>635903839764</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Audiobook</string>
+	<key>PROJECT_ID</key>
+	<string>ttest-15deq</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ttest-15deq.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:635903839764:ios:19faf472bd0a13f5376101</string>
+	<key>DATABASE_URL</key>
+	<string>https://ttest-15deq-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,35 @@
+
+export const Colors = {
+  theme_background: '#222222',
+  theme_background_second: '#FFA500',
+  black_text_color: 'black',
+  gray_text_color: '#737272',
+  light_gray_text_color: 'lightgray',
+  white_text_color: '#ffffff',
+  blue_color: 'blue',
+  red_color: 'red',
+  amber_color: '#FFC000',
+  chinese_silver: '#C8C7C8',
+  argent_color: '#C2C0C0',
+  ghost_white_color: '#f8f9fc',
+  spanish_pink_color: '#F5B9BD',
+  spanish_pink_color: '#F5B9BD',
+  sandy_tan_color: '#f8d2ba',
+  sandy_tan_color: '#fadcc8',
+  peach_orange: '#f4aa76',
+  diamond_color: '#c1e3f4',
+  pale_lavender: '#DCC7F8',
+  pale_lavender: '#DCC7F8',
+  blue_jeans_color: '#52b2fd',
+  light_yellow: "#fef7d6",
+  wageningen_green: "#299D35",
+  rating_color: "#1fb75f",
+  search_color: "#4b5059",
+  paregraph_teaxt_read_more: '#8c919c',
+  tab_color: "#c9c8c3",
+  gold_color: "gold",
+  headercolor: "#a17f37",
+  philippine_silver: "#B3B3B2"
+  
+};
+export default Colors;

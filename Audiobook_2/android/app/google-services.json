@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "635903839764",
+    "firebase_url": "https://ttest-15deq-default-rtdb.firebaseio.com",
+    "project_id": "ttest-15deq",
+    "storage_bucket": "ttest-15deq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635903839764:android:1c1de0f62cadaf6d376101",
+        "android_client_info": {
+          "package_name": "com.vginfotec.audiobook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635903839764-aqcrqg7icuvct81e997l15g4udt7q2oc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vginfotec.audiobook",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "635903839764-kuf4blhgr2jicbdouee3m0en9aj5cl52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-CzftU0hVrGUpdK8CzT5i7Y1QnvpmTJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635903839764-f27e2mar848m8bf9jdcmnlfk3euq9tl2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "635903839764-haip7ffd75hi4mrscphsiir9ogd64fd6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.Audiobook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
